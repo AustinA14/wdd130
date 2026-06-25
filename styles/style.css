@@ -73,8 +73,9 @@ main {
     grid-column: 1/2;
 }
 
-.linked-in {
+.linked_in {
     color: #06070e;
+    text-decoration: underline;
 }
 
 .me {
